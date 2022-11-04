@@ -3,5 +3,6 @@
 - Doing (creativity && art) using (code && instructions).
 
 MY SKILLS :
-[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,nodejs,nextjs,tailwind,vim,c,)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,nextjs,tailwind,vim,c,)](https://skillicons.dev)
 
