@@ -6,7 +6,7 @@ MY SKILLS :
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,nextjs,tailwind,vim,c,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,nextjs,tailwind,vim,c,firebase)](https://skillicons.dev)
 
 
 
