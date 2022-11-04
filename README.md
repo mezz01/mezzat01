@@ -6,3 +6,4 @@ MY SKILLS :
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,nextjs,tailwind,vim,c,)](https://skillicons.dev)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mezzat01)](https://github.com/anuraghazra/github-readme-stats)
